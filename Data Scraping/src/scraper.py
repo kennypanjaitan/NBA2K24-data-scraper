@@ -112,8 +112,9 @@ def main():
 def hello():
     print('hello, world')
 
-
 if __name__ == "__main__":
     main()
 
+def register():
+    print('iya')
 
